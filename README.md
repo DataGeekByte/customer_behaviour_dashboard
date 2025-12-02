@@ -9,7 +9,7 @@ The objective is to analyze the dataset, uncover trends, and convert findings in
 
 The dataset is loaded and explored in Python.
 
-File type: .csv
+File type: customer_shopping_behavior.csv
 
 Contains information such as customer/sales/product/demographic attributes (update based on your dataset).
 
@@ -97,7 +97,7 @@ Filters/slicers for exploration
 
 Visuals that support insights from Python and SQL
 
-Dashboard File: dashboard.pbix
+Dashboard File: customer_behaviour_dashboard.pbix
 
 
 6. Final Report
